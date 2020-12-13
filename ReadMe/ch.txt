@@ -1,0 +1,36 @@
+                                    
+实现者：
+艾略特（Eliot ZOUANIA）
+马瑞斯·德鲁伊（Maruis DELEUIL）
+文森特·罗莱特
+
+中文：
+
+要测试程序，请按照以下说明进行操作：
+
+
+-打开终端（Linux：终端，Windows：Cygwin（http://cygwin.com/setup-x86_64.exe））
+
+-转到软件目录：
+
+-> cd <目录>
+（示例）：-> cd / home / project-fr
+
+-使用以下命令启动程序：
+
+./Launcher.sh
+
+
+-选择语言：-英语
+-法文
+-中文
+-德国
+-西班牙
+-意大利语
+-拉丁
+
+-输入与操作选择相对应的数字
+
+-如有问题，请随时通过以下电子邮件与我们联系：marius.deleuil@etu.univ-amu.fr
+                                    ：vincent.rollet@etu.univ-amu.fr
+                                    ：eliot.zouania@etu.univ-amu.fr

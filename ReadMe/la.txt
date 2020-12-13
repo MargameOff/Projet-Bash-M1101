@@ -1,0 +1,35 @@
+
+Penes:
+ZOUANIA Tullius Cicero
+Maruis DELEUIL
+Vincentius Rollet
+
+
+Placet temptare rationem praeceptorum sequi deorsum
+
+
+-Open terminum (Linux, Terminatio, Windows: Cygwin (http://cygwin.com/setup-x86_64.exe))
+
+-Go software to the Directory:
+
+-> CD <Directory>
+(Exempli gratia) -> CD / domus / project-it
+
+- Satus cum his progressio imperium;
+
+./Launcher.sh
+
+
+-Select verbis: -Aland
+-French
+- 中文
+-Beutsche
+-España
+-Italiano
+-Latin
+
+- Typus numerus ad arbitrium est actus correspondentes
+
+-In quaestio ex causa, ne per liberum contactus nos in inscriptio electronica: marius.deleuil@etu.univ-amu.fr
+                                                                             : vincent.rollet@etu.univ-amu.fr
+                                                                             : eliot.zouania@etu.univ-amu.fr

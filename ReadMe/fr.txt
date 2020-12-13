@@ -1,0 +1,34 @@
+
+Réalisé par:
+Eliot ZOUANIA
+Maruis DELEUIL
+Vincent ROLLET
+
+Pour tester le programme veuillez suivre les instructions suivantes :
+
+
+-Ouvrir le terminal (Linux: Terminal, Windows: Cygwin(http://cygwin.com/setup-x86_64.exe))
+
+-Rendez-vous sur le répertoire du logiciel :
+
+--> cd <Répertoire>
+(exemple): --> cd /home/projet-fr
+
+-Lancez le programme avec la commande ci-suivante :
+
+./Launcher.sh
+
+
+-selectionner la langue:-English
+			-Français
+			-中文
+			-Beutsche
+			-España
+			-Italiano
+			-Latine
+
+-Taper le chiffre correspondant à choix des actions
+
+-En cas de problème n'hésiter pas à nous contacter par mail à l'adresse : marius.deleuil@etu.univ-amu.fr
+									: vincent.rollet@etu.univ-amu.fr
+									: eliot.zouania@etu.univ-amu.fr

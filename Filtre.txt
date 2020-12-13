@@ -1,0 +1,18 @@
+SVG:Scalable Vector Graphics image:image:.svg
+ASCII:Texte en Ascii:texte:.txt
+UTF-8:Texte en Unicode:texte:.txt
+GIF:Image en mouvement:video:.gif
+JPEG:Image en Jpeg:image:.jpg
+Blender3D,:Fichier Objet 3D:autre:.blend
+PNG:Image en PNG:image:.png
+MPEG:audio en MP3:audio:.mp3
+Audio:audio en MP3:audio:.mp3
+gzip:Archive compresse:archive:.gz
+HTML:Fichier html:document:.html
+ISO:Video en image MP4:video:.mp4
+OpenDocument:Texte en OpenDocument:document:.odt
+Rich:Texte en RichText:texte:.rtf
+data:fichier non-identifiable par file:data:.
+Microsoft:Fichier exel:document:.xlsx
+PDF:Fichier Portable Document Format:document:.pdf
+Bourne-Again:Programme en BASH:autre:.sh
