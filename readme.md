@@ -20,6 +20,24 @@
 
 * Twitter: [@MargameOfficial](https://twitter.com/MargameOfficial)
 * Github: [@MargameOff](https://github.com/MargameOff)
+* Mail: marius.deleuil@etu.univ-amu.fr
+
+👤 **Vincent ROLLET**
+
+* Mail: vincent.rollet@etu.univ-amu.fr
+
+👤 **Eliot ZOUANIA**
+
+* Mail: eliot.zouania@etu.univ-amu.fr
+
+## Languages availables
+
+* English
+* French
+* Chinese
+* Italian
+* Spanish
+* Latin
 
 ## Show your support
 
