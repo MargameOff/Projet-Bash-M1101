@@ -10,6 +10,14 @@ repProgramme="$3"
 ######################################################################################################
 
 
+######################################################################################################s
+mot1="Authentique"
+mot2="Extension deja authentique"
+mot3="Falsifié"
+mot4="Inconnu Dans Le Filtre"
+######################################################################################################
+
+
 ########################RECUPERATION DES RESULTATS POUR LE HTML#######################################
 nbType=`cat "$TMP/Analyser2.txt" | cut -d ':' -f2 | sort | uniq | wc -l`
 nbCat=`cat "$repProgramme/Filtre.txt" | cut -d ':' -f3 | sort | uniq | wc -l`
