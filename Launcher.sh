@@ -23,21 +23,21 @@ done
 ans=$( zenity "${zen_opts[@]}" 2> /dev/null )
 cd Systeme
 case $ans in 
-  en) ./Interface.sh en
+  en) bash Interface.sh en
   ;; 
-  fr) ./Interface.sh fr
+  fr) bash Interface.sh fr
   ;; 
-  ch) ./Interface.sh ch
+  ch) bash Interface.sh ch
   ;; 
-  de) ./Interface.sh de
+  de) bash Interface.sh de
   ;; 
-  es) ./Interface.sh es
+  es) bash Interface.sh es
   ;; 
-  it) ./Interface.sh it
+  it) bash Interface.sh it
   ;; 
-  la) ./Interface.sh la
+  la) bash Interface.sh la
   ;; 
-  *) ./Interface.sh fr
+  *) bash Interface.sh fr
   ;; 
 esac
 ######################################################################################################

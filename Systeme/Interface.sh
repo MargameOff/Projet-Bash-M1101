@@ -306,7 +306,7 @@ function MenuPrincipal(){
   1) MenuLancer
   ;; 
   2) cd ..
-    ./Launcher.sh
+    bash Launcher.sh
     cd Systeme
   ;; 
   3) Manuel
@@ -412,8 +412,8 @@ function MenuLancerConfirm(){
     read -p "$texte6" choix
     case $choix in 
       1)
-      ./Analyseur.sh "$repRes" "$repAScan"
-      ./Interpretation.sh "$repRes" "$repAScan" "$langue"
+      bash Analyseur.sh "$repRes" "$repAScan"
+      bash Interpretation.sh "$repRes" "$repAScan" "$langue"
       ;; 
       2) MenuLancer
       ;; 
@@ -430,7 +430,7 @@ function MenuQuestionSortie(){
   case $? in 
     0) clear
     Bandeau
-    ./SortieHTML.sh "$repRes" "$repAScan" "$repProgramme"
+    bash SortieHTML.sh "$repRes" "$repAScan" "$repProgramme"
     sortieHTML=0
     ;; 
     1) sortieHTML=1
