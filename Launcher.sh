@@ -1,6 +1,13 @@
 #!/bin/bash
 #PROJET BASH
 ###################################SELECTEUR DE LANGUE####################################################
+presence=$(dpkg-query -l | grep "zenity")
+if [ "$presence" == "" ]
+then
+    sudo apt-get install zenity
+else
+    echo "Zenity deja Installe"
+fi
 kb=(   en:English
        fr:Francais
        ch:中文
